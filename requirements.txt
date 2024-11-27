@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+openpyxl
+mysql.connector.python
+statsmodels
+pydotplus
+graphviz
+opencv-python scikit-learn matplotlib
+nltk
