@@ -23,31 +23,31 @@ This repository provides a detailed collection of Python scripts and notebooks f
    - Extending linear regression to fit non-linear data
    - Feature transformations
    - Overfitting and regularization
+  
+3. **Support Vector Machine (SVM)**
+   - Hyperplanes and support vectors
+   - Kernel functions (linear, polynomial, RBF)
+   - Handling non-linearly separable data
 
-3. **Decision Tree**
+4. **Decision Tree**
    - Understanding decision tree splits
    - Gini index and entropy
    - Pruning and avoiding overfitting
 
-4. **Random Forest**
+5. **Random Forest**
    - Ensemble learning with decision trees
    - Bagging technique
    - Feature importance and visualization
 
-5. **K-Nearest Neighbors (KNN)**
+6. **K-Nearest Neighbors (KNN)**
    - Distance metrics (e.g., Euclidean, Manhattan)
    - Choosing the optimal `k`
    - Applications in classification and regression
 
-6. **Naive Bayes**
+7. **Naive Bayes**
    - Probabilistic classification
    - Assumptions of Naive Bayes
    - Applications to text classification
-
-7. **Support Vector Machine (SVM)**
-   - Hyperplanes and support vectors
-   - Kernel functions (linear, polynomial, RBF)
-   - Handling non-linearly separable data
 
 8. **K-Means Clustering**
    - Centroid initialization and optimization
@@ -58,10 +58,6 @@ This repository provides a detailed collection of Python scripts and notebooks f
    - Content-based filtering
    - Collaborative filtering
    - Hybrid recommendation systems
-
-10. **PDF (Probability Density Function) Analysis**
-    - Understanding probability distributions
-    - Density estimation for anomaly detection
 
 ### **Additional Topics**
 - **Model Evaluation**:
@@ -103,11 +99,11 @@ This repository provides a detailed collection of Python scripts and notebooks f
 |---------------------------|-------------------------------------------------------------|
 | **Linear Regression**     | Predicting continuous outcomes using a linear relationship. |
 | **Polynomial Regression** | Modeling non-linear relationships between variables.        |
+| **SVM**                   | Classification using hyperplanes and kernel functions.      |
 | **Decision Tree**         | Tree-based model for classification and regression.         |
 | **Random Forest**         | Ensemble method for improving model performance.            |
 | **KNN**                   | Instance-based learning for classification and regression.  |
 | **Naive Bayes**           | Probabilistic model based on Bayes' theorem.                |
-| **SVM**                   | Classification using hyperplanes and kernel functions.      |
 | **K-Means Clustering**    | Partitioning data into distinct groups.                     |
 | **Recommendation**        | Personalized recommendations for users or products.        |
 
