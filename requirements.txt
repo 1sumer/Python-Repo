@@ -10,3 +10,4 @@ pydotplus
 graphviz
 opencv-python scikit-learn matplotlib
 nltk
+xlrd
