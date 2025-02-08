@@ -11,6 +11,19 @@
 			"problemMatcher": [],
 			"label": "java (build): Build Workspace",
 			"detail": "$(tools) Build all the Java projects in workspace."
+		},
+		{
+			"label": "Run and Debug",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"${workspaceFolder}/Countryies Energy detailes/clarity.js"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"problemMatcher": []
 		}
 	]
 }

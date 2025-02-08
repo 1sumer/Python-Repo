@@ -6,5 +6,9 @@
         "watchFile": "dynamicPriorityPolling"
     },
     "javascript.suggest.includeAutomaticOptionalChainCompletions": false,
-    "debug.saveBeforeStart": "none"
+    "debug.saveBeforeStart": "none",
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "files.eol": "\n",
+    "files.autoSave": "onFocusChange"
 }
