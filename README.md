@@ -56,9 +56,9 @@ This repository provides a comprehensive guide to data analysis and visualizatio
 ## ⚙️ How to Use
 
 ### **🔧 Setup**
-1️⃣ Install **Python 3.x**
-2️⃣ Use `pip install -r requirements.txt` to install dependencies
-3️⃣ Run Jupyter Notebook using `jupyter notebook`
+- 1️⃣ Install **Python 3.x**
+- 2️⃣ Use `pip install -r requirements.txt` to install dependencies
+- 3️⃣ Run Jupyter Notebook using `jupyter notebook`
 
 ### **▶️ Run Scripts**
 - 📌 Navigate to individual folders for **NumPy, Pandas, Matplotlib, Seaborn, and EDA**.
